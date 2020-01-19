@@ -1,0 +1,9 @@
+void main (){
+    Map usuario ={
+        'nome': 'Jeferson',
+        'idade': 24,
+        'altura': 1.83,
+        'jeecambui': true,
+    };
+    print(usuario.length);
+}
