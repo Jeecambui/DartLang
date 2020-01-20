@@ -4,7 +4,7 @@ void main (){
         'idade': 24,
         'altura': 1.83,
         'jeecambui': true,
-        24 'vinte e quadro anos'
+        24: 'vinte e quadro anos'
     };
-    print(usuario['nome ']);
+    print(usuario[24]);
 }
